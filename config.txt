@@ -1,0 +1,2 @@
+github_token=ghp_1234567890abcdef1234567890abcdef1345678
+azure_secret=8Q~abcdefghijklmnopqrstuvwxyz1234567890AB
